@@ -2,16 +2,16 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="14" started-at="2022-12-02T16:50:38Z" finished-at="2022-12-02T16:50:38Z">
+  <suite name="Surefire suite" duration-ms="15" started-at="2022-12-03T09:16:22Z" finished-at="2022-12-03T09:16:22Z">
     <groups>
     </groups>
-    <test name="Test" duration-ms="14" started-at="2022-12-02T16:50:38Z" finished-at="2022-12-02T16:50:38Z">
+    <test name="Surefire test" duration-ms="15" started-at="2022-12-03T09:16:22Z" finished-at="2022-12-03T09:16:22Z">
       <class name="org.Demo.Test1">
-        <test-method status="PASS" signature="verifyTest()[pri:0, instance:org.Demo.Test1@282003e1]" name="verifyTest" duration-ms="3" started-at="2022-12-02T16:50:38Z" finished-at="2022-12-02T16:50:38Z">
+        <test-method status="PASS" signature="verifyTest()[pri:0, instance:org.Demo.Test1@5594a1b5]" name="verifyTest" duration-ms="4" started-at="2022-12-03T09:16:22Z" finished-at="2022-12-03T09:16:22Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifyTest -->
       </class> <!-- org.Demo.Test1 -->
-    </test> <!-- Test -->
-  </suite> <!-- Suite -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
 </testng-results>
