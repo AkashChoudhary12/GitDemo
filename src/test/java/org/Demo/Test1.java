@@ -9,6 +9,8 @@ public class Test1 {
 	public void verifyTest() {
 		
 		System.out.println("hello its run");
+		System.out.println("hello its run2");
+		System.out.println("hello its run3");
 		
 	}
 	
